@@ -298,6 +298,8 @@ View the [contribute](#contribute) section and let us know what you think would 
 
 # Industry
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
+
 Domains and use-case specific resources such as broadcasting, communications, gaming, music, and the web where awesome audio is applied.
 
 - [Standards](#standards)
