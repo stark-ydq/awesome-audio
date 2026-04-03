@@ -55,6 +55,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Bitwig Studio](https://www.bitwig.com/) - Cross Platform DAW made by ex-Ableton employees
     - [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application that runs on Linux, macOS, FreeBSD and Microsoft Windows.
     - [LMMS](https://lmms.io/) - free, open source, cross platform DAW
+    - [Voicetoinstrument](https://voicetoinstrument.com) - Convert voice recordings to instrumental tracks using AI
 
 ## How-To Playback Audio
 
