@@ -53,6 +53,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Audacity](https://www.audacityteam.org/) - Audacity is a free and open-source digital audio editor and recording application software
     - [Reaper](https://www.reaper.fm/) - Propietary cross platform DAW
     - [Bitwig Studio](https://www.bitwig.com/) - Cross Platform DAW made by ex-Ableton employees
+    - [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice recordings into instrumental tracks using AI for music production.
     - [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application that runs on Linux, macOS, FreeBSD and Microsoft Windows.
     - [LMMS](https://lmms.io/) - free, open source, cross platform DAW
 
